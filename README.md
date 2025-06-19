@@ -42,7 +42,7 @@ WireGuard · pfSense · VLAN · Reverse Proxy · DNS · TLS
 Debian · Ubuntu · Linux CLI · systemd · tmux · htop
 
 🔹 Selfhosting & Services:
-Nextcloud · Gitea · Paperless NGX · NetBird · Zabbix · BookStack
+Nextcloud · Gitea · Paperless-ngx · NetBird · Zabbix · BookStack
 
 🔹 Coding & Docs:
 Markdown · YAML · Git · VS Code · Obsidian
