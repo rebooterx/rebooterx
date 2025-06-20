@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **rebooterx**
+# 👋 Hi, I'm **RebooterX**
 
 **Dev & Self-Hosting Enthusiast based in Bavaria, Germany**  
 I enjoy crafting infrastructure that runs smoothly, silently – and better than yesterday.
